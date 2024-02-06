@@ -18,8 +18,7 @@ public class studentsJob {
 			answer = scnr.nextLine();
 			}
 		
-		//um maybe i did something
-		
+		//new comment, making changes 
 		//Check if user said yes or no and assign boolean value
 		if(answer.equalsIgnoreCase("Yes")) {
 			hasJob = true;
